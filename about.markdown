@@ -4,7 +4,7 @@ title: Projet
 permalink: /projet/
 ---
 
-# Début du projet d'école :smile:
+# Début du projet d'école :3 
 
 ## Widgets
 
